@@ -21,8 +21,8 @@
 # PROGRAM :
 # CLIENT:
 ```
-# Developed By : NAGINENI ROHITH
-# Register Number : 212222040105
+# Developed By : D.Amarnath Reddy
+# Register Number : 212221240012
 import socket
 s = socket.socket()
 host = socket.gethostname()
